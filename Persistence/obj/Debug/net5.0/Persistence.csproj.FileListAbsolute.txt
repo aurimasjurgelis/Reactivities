@@ -1,0 +1,30 @@
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\auris\Desktop\New folder\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
