@@ -147,3 +147,5 @@ C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\System.Ide
 C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\auris\Desktop\Reactivities\Reactivities\API\bin\Debug\net5.0\Infrastructure.pdb
